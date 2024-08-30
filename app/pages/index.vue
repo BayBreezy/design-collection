@@ -40,6 +40,13 @@
       image: "/social/default-apps-settings.png",
       to: "/default-apps-setting",
     },
+    {
+      name: "Sales Dashboard",
+      description:
+        "This design is a sales dashboard that shows the sales, orders, and average order value of a business.",
+      image: "/social/sales-dashboard.png",
+      to: "/sales-dashboard",
+    },
   ];
 
   const image = "/social/site-usage.png";
