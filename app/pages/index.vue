@@ -47,6 +47,13 @@
       image: "/social/sales-dashboard.png",
       to: "/sales-dashboard",
     },
+    {
+      name: "My Profile",
+      description:
+        "This design is a profile page for a user to manage their details and personal preferences.",
+      image: "/social/my-profile.png",
+      to: "/my-profile",
+    },
   ];
 
   const image = "/social/site-usage.png";
