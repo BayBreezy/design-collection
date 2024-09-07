@@ -54,6 +54,13 @@
       image: "/social/my-profile.png",
       to: "/my-profile",
     },
+    {
+      name: "Project Sources",
+      description:
+        "This design is a project sources page that shows a list of sources and their status. It also shows a source deleted page with a view in schema button.",
+      image: "/social/project-sources.png",
+      to: "/project-sources",
+    },
   ];
 
   const image = "/social/site-usage.png";
